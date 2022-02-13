@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="harrypotter" />
+        <module name="exam-final-HARRY" />
       </profile>
     </annotationProcessing>
   </component>

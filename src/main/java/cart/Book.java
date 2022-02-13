@@ -30,4 +30,8 @@ public class Book {
     public int hashCode(){
         return title.hashCode();
     }
+
+    public String sayHeyTest(){
+        return "hey jenkins from git webhook"
+    }
 }
