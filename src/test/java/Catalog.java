@@ -1,6 +1,7 @@
 import cart.Book;
 
 public class Catalog {
+
     public static Book GivenAHarryPotterIBook(){
         Book book = new Book("Harry Potter and the Philosopher's Stone");
 

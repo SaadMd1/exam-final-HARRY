@@ -17,6 +17,7 @@ public class BooksSetFactoryShould {
 
     @Before
     public void setup(){
+        //Book copies 3 quantité(8-8*discout/100)
         List<BooksSetDiscount> byDifferentCopiesDiscountList = new ArrayList<>();
 
         byDifferentCopiesDiscountList.add(new BooksSetDiscount(2,5));
