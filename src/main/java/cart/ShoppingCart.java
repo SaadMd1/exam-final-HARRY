@@ -16,6 +16,8 @@ public class ShoppingCart {
 
         ShoppingCartItem existedItem = null;
 
+        // si par exemple on a
+        /*shopping cart item : */
         for (ShoppingCartItem item:shoppingCartItems){
             if (item.getBook().equals(book))
                 existedItem = item;
