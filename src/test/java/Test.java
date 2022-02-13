@@ -9,7 +9,7 @@ public class Test {
         books.add(Catalog.GivenAHarryPotterIIBook());
         books.add(Catalog.GivenAHarryPotterIIIBook());
         books.add(Catalog.GivenAHarryPotterIVBook());
-        books.add(Catalog.GivenAHarryPotterVBook());//a
+        books.add(Catalog.GivenAHarryPotterVBook());//aa
         /*for(Book o:books){
             System.out.println(o.getPrice());
         }*/
