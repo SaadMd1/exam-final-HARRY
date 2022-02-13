@@ -32,6 +32,6 @@ public class Book {
     }
 
     public String sayHeyTest(){
-        return "helloo jenkins from git webhook";
+        return "hellooo jenkins from git webhook";
     }
 }
