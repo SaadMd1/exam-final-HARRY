@@ -32,6 +32,6 @@ public class Book {
     }
 
     public String sayHeyTest(){
-        return "hellooo jenkins from git dima raja";
+        return "hellooo jenkins from git dima2";
     }
 }
